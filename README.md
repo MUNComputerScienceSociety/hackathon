@@ -14,7 +14,7 @@ Misc:
 - Access to a projector would be nice so people can spectate if they're interested in attending to see what everything is about but aren't comfortable participating.
 - https://open.kattis.com is a programming challenge site that ranks Universities across countries and states/provinces. MUN has a surprisingly high ranking on the leaderboard. Challenges are of any and all difficulties, and your profile on the site might make good CV padding.
 
-## Hackathon: Major League Hackathon:
+## Hackathon: Major League Hackathon
 [https://mlh.io/seasons/na-2019/events](https://mlh.io/seasons/na-2019/events) 
 This one looks like the real deal, and would take some hard work to get towards but is a great goal. 
 
